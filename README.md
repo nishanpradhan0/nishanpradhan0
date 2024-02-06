@@ -1,4 +1,4 @@
-![logo](https://github.com/Nishan-Pradhan06/Nishan-Pradhan06/blob/main/banner.png)
+![logo](https://github.com/nishanpradhan0/nishanpradhan0/blob/main/banner.png)
 <h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=I'm+Nishan+Pradhan!">
@@ -9,8 +9,8 @@
 
 <!-- <h3 align="center">A passionate WEB/APP developer from Nepal.</h3> -->
 
-<img align="right" alt="coding" width="400" src="https://github.com/Nishan-Pradhan06/Nishan-Pradhan06/blob/main/github.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishan-pradhan06&label=Profile%20views&color=0e75b6&style=flat" alt="nishan-pradhan06" /> </p>
+<img align="right" alt="coding" width="400" src="https://github.com/nishanpradhan0/nishanpradhan0/blob/main/github.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanpradhan0&label=Profile%20views&color=0e75b6&style=flat" alt="nishanpradhan0" /> </p>
 
 - 🌱 I’m currently learning **Flutter Frameworks**
 
@@ -26,7 +26,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/profile.php?id=100015085275074)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pradhan_nishan_16)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logoColor=white)](https://nishanpradhan.com.np/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nishan-Pradhan06)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishanpradhan0)
 
 ### 💻 Skills
 
@@ -46,9 +46,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishan-pradhan06&show_icons=true&locale=en&layout=compact" alt="nishan-pradhan06" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishanpradhan0&show_icons=true&locale=en&layout=compact" alt="nishanpradhan0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishan-pradhan06&show_icons=true&locale=en" alt="nishan-pradhan06" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishan-pradhan06&" alt="nishan-pradhan06" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishanpradhan0&show_icons=true&locale=en" alt="nishanpradhan0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanpradhan0&" alt="nishanpradhan0" /></p> 
 
 
